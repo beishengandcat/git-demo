@@ -10,5 +10,5 @@ hello github,hello world,hello java
 hello github,hello world,hello java
 hello github,hello world,hello java
 hello github,hello world,hello java
-hahahahahahaha
-xixixixixixixixi
+hahaha
+xixixi
